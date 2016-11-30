@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-hola tronco!!!
-modified line
-And yet a new line
-=======
-hola tronco
-this is a new line
->>>>>>> parent of 16556c2... New message, again
+This is the finished file to be committed
